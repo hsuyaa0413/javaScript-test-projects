@@ -1,0 +1,17 @@
+{
+  "name": "atm-unit-test",
+  "version": "1.0.0",
+  "main": "Account.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "test:unit": "jest \\.unit\\.test --coverage",
+    "test:int": "jest \\.int\\.test --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
