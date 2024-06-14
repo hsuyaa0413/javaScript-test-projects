@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717573618313" clover="3.2.0">
+  <project timestamp="1717573618313" name="All files">
+    <metrics statements="30" coveredstatements="30" conditionals="13" coveredconditionals="13" methods="2" coveredmethods="2" elements="45" coveredelements="45" complexity="0" loc="30" ncloc="30" packages="1" files="1" classes="1"/>
+    <file name="parse.js" path="/home/neon/Downloads/Telegram Desktop/webDevSimplified/JavaScript/js-projects/mathSolver-unit-test-es6/parse.js">
+      <metrics statements="30" coveredstatements="30" conditionals="13" coveredconditionals="13" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="10" count="15" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="14" type="cond" truecount="2" falsecount="0"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="19" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="3" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="3" type="stmt"/>
+      <line num="23" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="25" count="3" type="stmt"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="28" count="7" type="stmt"/>
+      <line num="33" count="7" type="stmt"/>
+      <line num="34" count="7" type="stmt"/>
+      <line num="36" count="7" type="cond" truecount="5" falsecount="0"/>
+      <line num="38" count="2" type="stmt"/>
+      <line num="40" count="1" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="44" count="1" type="stmt"/>
+      <line num="46" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
