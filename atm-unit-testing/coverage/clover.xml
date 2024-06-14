@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1717346783614" clover="3.2.0">
-  <project timestamp="1717346783614" name="All files">
+<coverage generated="1718354921365" clover="3.2.0">
+  <project timestamp="1718354921365" name="All files">
     <metrics statements="31" coveredstatements="18" conditionals="6" coveredconditionals="2" methods="14" coveredmethods="7" elements="51" coveredelements="27" complexity="0" loc="31" ncloc="31" packages="1" files="2" classes="2"/>
-    <file name="Account.js" path="/home/neon/Downloads/Telegram Desktop/webDevSimplified/js-projects/atm-unit-test/Account.js">
+    <file name="Account.js" path="/home/neon/Downloads/Telegram Desktop/webDevSimplified/JavaScript/js-test-projects/atm-unit-testing/Account.js">
       <metrics statements="21" coveredstatements="16" conditionals="2" coveredconditionals="2" methods="8" coveredmethods="7"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
@@ -26,7 +26,7 @@
       <line num="53" count="0" type="stmt"/>
       <line num="55" count="0" type="stmt"/>
     </file>
-    <file name="FileSystem.js" path="/home/neon/Downloads/Telegram Desktop/webDevSimplified/js-projects/atm-unit-test/FileSystem.js">
+    <file name="FileSystem.js" path="/home/neon/Downloads/Telegram Desktop/webDevSimplified/JavaScript/js-test-projects/atm-unit-testing/FileSystem.js">
       <metrics statements="10" coveredstatements="2" conditionals="4" coveredconditionals="0" methods="6" coveredmethods="0"/>
       <line num="1" count="1" type="stmt"/>
       <line num="3" count="1" type="stmt"/>
